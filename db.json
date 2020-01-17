@@ -1,12 +1,14 @@
 {
-  "comment": "Used for faking WhiteB api calls",
   "posts": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "login": {
+  "profile": {
+    "name": "typicode"
+  },
+    "login": {
     "token": "SHF-6LKJDLE2KFDL6KJD345LKSN2X-NEICIGC"
   }
 }
