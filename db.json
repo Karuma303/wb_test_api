@@ -8,7 +8,17 @@
   "profile": {
     "name": "typicode"
   },
-    "login": {
+  "login": {
     "token": "SHF-6LKJDLE2KFDL6KJD345LKSN2X-NEICIGC"
-  }
+  },
+  "finishedTests" : [
+    {
+      "id" : "1",
+      "title" : "abgeschlossener Test #1"
+    },
+    {
+      "id" : "2",
+      "title" : "abgeschlossener Test #2"
+    }
+  ]
 }
