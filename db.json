@@ -24,5 +24,6 @@
       "id" : "3",
       "title" : "abgeschlossener Test #3"
     }
-  ]
+  ],
+  "requestPayment" : {"request":"accepted"}
 }
