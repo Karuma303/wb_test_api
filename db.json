@@ -14,15 +14,18 @@
   "finishedTests" : [
     {
       "id" : "1",
-      "title" : "abgeschlossener Test #1"
+      "title" : "abgeschlossener Test #1",
+      "paymentRequested" : false
     },
     {
       "id" : "2",
       "title" : "abgeschlossener Test #2"
+      "paymentRequested" : false
     },
     {
       "id" : "3",
       "title" : "abgeschlossener Test #3"
+      "paymentRequested" : true
     }
   ],
   "requestPayment" : {"request":"accepted"}
