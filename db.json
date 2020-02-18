@@ -19,12 +19,12 @@
     },
     {
       "id" : "2",
-      "title" : "abgeschlossener Test #2"
+      "title" : "abgeschlossener Test #2",
       "paymentRequested" : false
     },
     {
       "id" : "3",
-      "title" : "abgeschlossener Test #3"
+      "title" : "abgeschlossener Test #3",
       "paymentRequested" : true
     }
   ],
