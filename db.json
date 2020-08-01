@@ -14,7 +14,7 @@
   "finishedTests" : [
     {
       "id" : "1",
-      "title" : "abgeschlossener Test #1",
+      "title" : "abgeschlossener Test #1 \"hallo welt\" foobar",
       "paymentRequested" : false
     },
     {
